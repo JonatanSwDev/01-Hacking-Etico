@@ -1,0 +1,19 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-02-08 13:00 CET
+Nmap scan report for 10.0.2.15
+Host is up (0.00015s latency).
+Not shown: 991 filtered tcp ports (no-response)
+PORT     STATE  SERVICE     VERSION
+21/tcp   open   ftp         ProFTPD 1.3.5
+22/tcp   open   ssh         OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
+80/tcp   open   http        Apache httpd 2.4.7
+445/tcp  open   netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+631/tcp  open   ipp         CUPS 1.7
+3000/tcp closed ppp
+3306/tcp open   mysql       MySQL (unauthorized)
+8080/tcp open   http        Jetty 8.1.7.v20120910
+8181/tcp closed intermapper
+MAC Address: 08:00:27:42:51:79 (Oracle VirtualBox virtual NIC)
+Service Info: Hosts: 127.0.2.1, METASPLOITABLE3-UB1404; OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.63 seconds
