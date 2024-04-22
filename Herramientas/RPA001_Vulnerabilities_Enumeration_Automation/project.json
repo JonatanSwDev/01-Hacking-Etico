@@ -4,11 +4,11 @@
   "description": "This project reports information from NMAP by converting it to JSON by a python script, then deserializes the JSON into a dictionary and traverses it querying a public database for the target data.\r\nThe output is an Excel sheet with the collected information.\r\n\r\nAnother functionality it has is an independent search, where it requests the service with the version and also the port, performing a search in a database where the selectors do not cause any problems.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.0-preview]",
+    "UiPath.Excel.Activities": "[2.23.2-preview]",
     "UiPath.Python.Activities": "[1.7.1]",
-    "UiPath.System.Activities": "[23.12.0-preview]",
-    "UiPath.UIAutomation.Activities": "23.12.1-preview",
-    "UiPath.WebAPI.Activities": "[1.18.0]"
+    "UiPath.System.Activities": "[24.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "24.2.0-preview",
+    "UiPath.WebAPI.Activities": "[1.19.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],

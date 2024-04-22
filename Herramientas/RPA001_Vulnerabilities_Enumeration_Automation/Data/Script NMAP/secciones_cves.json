@@ -1,0 +1,102 @@
+{
+    "21/tcp   open   ftp         ProFTPD 1.3.5": [
+        {
+            "CVE": "CVE-2015-3306",
+            "URL": "https://vulners.com/prion/PRION:CVE-2015-3306",
+            "EXPLOIT": "https://vulners.com/packetstorm/PACKETSTORM:162777 | https://vulners.com/packetstorm/PACKETSTORM:132218 | https://vulners.com/packetstorm/PACKETSTORM:131567 | https://vulners.com/packetstorm/PACKETSTORM:131555 | https://vulners.com/packetstorm/PACKETSTORM:131505 | https://vulners.com/exploitdb/EDB-ID:49908 | https://vulners.com/zdt/1337DAY-ID-36298 | https://vulners.com/zdt/1337DAY-ID-23720 | https://vulners.com/zdt/1337DAY-ID-23544 | https://vulners.com/seebug/SSV:61050"
+        },
+        {
+            "CVE": "CVE-2019-19272",
+            "URL": "https://vulners.com/prion/PRION:CVE-2019-19272",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2019-19271",
+            "URL": "https://vulners.com/prion/PRION:CVE-2019-19271",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2019-19270",
+            "URL": "https://vulners.com/prion/PRION:CVE-2019-19270",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2019-18217",
+            "URL": "https://vulners.com/prion/PRION:CVE-2019-18217",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2016-3125",
+            "URL": "https://vulners.com/prion/PRION:CVE-2016-3125",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2017-7418",
+            "URL": "https://vulners.com/prion/PRION:CVE-2017-7418",
+            "EXPLOIT": ""
+        }
+    ],
+    "22/tcp   open   ssh         OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)": [
+        {
+            "CVE": "CVE-2015-5600",
+            "URL": "https://vulners.com/prion/PRION:CVE-2015-5600",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2020-16088",
+            "URL": "https://vulners.com/prion/PRION:CVE-2020-16088",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2015-6564",
+            "URL": "https://vulners.com/prion/PRION:CVE-2015-6564",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2015-5352",
+            "URL": "https://vulners.com/prion/PRION:CVE-2015-5352",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2015-6563",
+            "URL": "https://vulners.com/prion/PRION:CVE-2015-6563",
+            "EXPLOIT": ""
+        }
+    ],
+    "80/tcp   open   http        Apache httpd 2.4.7": [],
+    "445/tcp  open   netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)": [],
+    "631/tcp  open   ipp         CUPS 1.7": [
+        {
+            "CVE": "CVE-2014-5031",
+            "URL": "https://vulners.com/prion/PRION:CVE-2014-5031",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2014-2856",
+            "URL": "https://vulners.com/prion/PRION:CVE-2014-2856",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2021-25317",
+            "URL": "https://vulners.com/prion/PRION:CVE-2021-25317",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2014-5030",
+            "URL": "https://vulners.com/prion/PRION:CVE-2014-5030",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2014-3537",
+            "URL": "https://vulners.com/prion/PRION:CVE-2014-3537",
+            "EXPLOIT": ""
+        },
+        {
+            "CVE": "CVE-2013-6891",
+            "URL": "https://vulners.com/prion/PRION:CVE-2013-6891",
+            "EXPLOIT": ""
+        }
+    ],
+    "3306/tcp open   mysql       MySQL (unauthorized)": [],
+    "8080/tcp open   http        Jetty 8.1.7.v20120910": []
+}
